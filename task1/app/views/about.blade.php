@@ -10,7 +10,7 @@
       <ul class="list-group list-group-flush">
         <li class="list-group-item">Name: Vladislav Dovzhenko</li>
         <li class="list-group-item">E-mail: seenelse@gmail.com</li>
-        <li class="list-group-item"><a href="#">GitHub</a></li>
+        <li class="list-group-item"><a href="https://github.com/SeeNelse/laravel_gfl/tree/master/task1">GitHub</a></li>
       </ul>
     </div>
   </div>

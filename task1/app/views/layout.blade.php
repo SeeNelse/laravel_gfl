@@ -21,7 +21,7 @@
           </div>
         </div>
       </div>
-      <a href="https://github.com/SeeNelse/gfl_php_tasks/tree/master/task1" target="_blank" class="navbar__github"><img style='height: 20px;' src="{{ route('root') }}/img/GitHub-Logo.png" alt="github"></a>
+      <a href="https://github.com/SeeNelse/laravel_gfl/tree/master/task1" target="_blank" class="navbar__github"><img style='height: 20px;' src="{{ route('root') }}/img/GitHub-Logo.png" alt="github"></a>
     </div>
   </nav>
   <div class="container pt-5">
